@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Implementing a SOC and Honeynet in Azure](https://github.com/adhamcho/LABURL)
+- [Implementing a SOC and Honeynet in Azure](https://github.com/adhamcho/SOCHoneypotLab)
 
 <h2>  Certifications </h2>
 - [Google Cybersecurity Professional Certification](https://github.com/adhamcho/LABURL) <br/>
