@@ -5,7 +5,7 @@
 - [Implementing a SOC and Honeynet in Azure](https://github.com/adhamcho/SOCHoneypotLab)
 
 <h2>  Certifications </h2>
-- [Google Cybersecurity Professional Certification](https://github.com/adhamcho/LABURL) <br/>
+- [Google Cybersecurity Professional Certification] <!--(https://github.com/adhamcho/LABURL) !--> <br/>
 - [FEMA National Incident Management System (NIMS): ICS-100] <br/>
 - [Qualys Vulnerability Management] <br/>
 
