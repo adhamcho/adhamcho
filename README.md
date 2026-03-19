@@ -1,35 +1,21 @@
-<h1>Hi, I'm Adham! <br/>
+<h1>Hi, I'm Adham</h1>
+
+<p>
+Cybersecurity student focused on SOC operations, threat detection, and log analysis.
+I build hands-on projects to simulate real-world attack scenarios and analyze malicious activity using SIEM tools.
+</p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Implementing a SOC and Honeynet in Azure](https://github.com/adhamcho/SOCHoneypotLab)
+- <b>SOC Honeypot Lab (Azure + Microsoft Sentinel)</b><br/>
+  Deployed a public-facing Windows VM, captured real-world RDP brute force attacks, and analyzed logs using KQL and Sentinel.<br/>
+  → <a href="https://github.com/adhamcho/SOCHoneypotLab">View Project</a>
 
-<h2>  Certifications </h2>
-- [Google Cybersecurity Professional Certification] <!--(https://github.com/adhamcho/LABURL) !--> <br/>
-- [FEMA National Incident Management System (NIMS): ICS-100] <br/>
-- [Qualys Vulnerability Management] <br/>
+<h2>📜 Certifications</h2>
 
+- Google Cybersecurity Professional Certificate  
+- CompTIA Security+ (SY0-701)  
 
+<h2>🤝 Connect with me</h2>
 
-
-<h2> 🤳 Connect with me on Linkedin:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/adhamcho
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/adhamcho">LinkedIn</a>
