@@ -8,7 +8,7 @@ I build hands-on projects to simulate real-world attack scenarios and analyze ma
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Honeypot Lab (Azure + Microsoft Sentinel)</b><br/>
-  Deployed a public-facing Windows VM, captured real-world RDP brute force attacks, and analyzed logs using KQL and Sentinel.<br/>
+  Deployed a public-facing Windows VM, captured real-world RDP brute force attacks and analyzed authentication logs using KQL in Microsoft Sentinel.<br/>
   → <a href="https://github.com/adhamcho/SOCHoneypotLab">View Project</a>
 
 <h2>📜 Certifications</h2>
